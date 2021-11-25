@@ -1,6 +1,6 @@
 ### Hola 👋, Soy **Angly**, Pero algunos me dicen Ann  😅
 #### Soy FullStack Web Developer 👨🏻‍💻 
-![Soy FullStack Web Developer 👨🏻‍💻 ](https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805651-VQ0UCEP8P02IBGM6WHTZ/App-Developer.gif)
+![Soy FullStack Web Developer 👨🏻‍💻 ](https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805651-VQ0UCEP8P02IBGM6WHTZ/App-Developer.gif?format=500w)
 
 Y tambien soy Ingeniero Electronico ❤️ *Soy entregada y apasionada*.
 Desde que descubri la programacion por alla durante mi carrera, pense que podria irme por este camino..Pero la vida da muchas vueltas y recien ahora unos 10años despues estoy donde quise estar aquel dia...!  🥳
