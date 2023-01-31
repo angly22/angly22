@@ -15,7 +15,7 @@ Habilidades: JAVASCRIPT / REACT.JS / REDUX / HTML / CSS / POSTGRESS/ EXPRESS/ NO
 - ⚡ Dato curioso: Tuve una cerveceria por tres años..Despues de cerrarla..Como hobbie me dedico a conocer un bar cada sabado..y probar diferentes tipos de cervezas 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'https://github.com/angly22)  ][<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anglydiazjimenez/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anglybeer)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angly22)](https://github.com/anuraghazra/github-readme-stats)
 
